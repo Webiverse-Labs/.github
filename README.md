@@ -7,7 +7,6 @@
 ---
 
 ### About Webiverse Labs
----
 
 *Webiverse* reflects our view of the web as an ever-expanding universe of interconnected services, platforms, and user experiences. 
 
