@@ -6,7 +6,7 @@
 
 ---
 
-### About Webiverse Labs
+## About Webiverse Labs
 
 *Webiverse* reflects our view of the web as an ever-expanding universe of interconnected services, platforms, and user experiences. 
 
@@ -14,7 +14,7 @@ As a software development group, our mission is to engineer reliable, production
 
 ---
 
-### Areas of Focus
+## Areas of Focus
 
 * **Full-Stack Web Development** – Crafting scalable client-side interfaces paired with robust server-side APIs.
 * **UI/UX & Accessible Design** – Creating intuitive, responsive, and standards-compliant web interfaces.
@@ -25,7 +25,7 @@ As a software development group, our mission is to engineer reliable, production
 
 ---
 
-### Team & Core Roles
+## Team & Core Roles
 
 | Member | Role |
 | :--- | :--- |
@@ -37,8 +37,10 @@ As a software development group, our mission is to engineer reliable, production
 
 ---
 
-### Tech Stack & Tools
+## Tech Stack & Tools
 
 * **Frontend:** React, Tailwind CSS
 * **Backend & Database:** Express.js, MongoDB
 * **Version Control & Tools:** Git, GitHub Actions, VS Code, Figma
+
+---
