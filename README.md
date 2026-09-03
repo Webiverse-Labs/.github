@@ -1,10 +1,6 @@
 # WEBIVERSE LABS
---- 
 
-> Building responsive, scalable, and modern web solutions through innovation,```markdown
-# WEBIVERSE LABS
-
-> Building modern, resilient web ecosystems through purposeful engineering and collaborative design.
+> Building responsive, scalable, and modern web solutions through innovation.
 
 **Webiverse Labs** is a dedicated software development team focused on architecting and deploying scalable web applications, distributed digital systems, and user-centric digital tools. We bridge concept and execution by turning complex technical challenges into clean, accessible, and high-performance web solutions.
 
